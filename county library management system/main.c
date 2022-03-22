@@ -1,5 +1,5 @@
 /*county library management system
-By CYPRIAN MWENDA
+By IVY JILE KERUBO
 feb 2022
 MIT license
 C89 compiler
