@@ -1,5 +1,5 @@
 /*county library management system
-By CYPRIAN MWENDA
+By IVY JILE KERUBO
 feb 2022
 MIT license
 C89 compiler
@@ -30,7 +30,7 @@ int main()
 {
     while(1) {
         printf("COUNTY LIBRARY SYSTEM!\n");
-        printf("Welcome Mr. Cyprian!\n");
+        printf("Welcome MADAM IVY JILE!\n");
         execute_action(menu());
         printf("Press any key to continue");
         getch();
